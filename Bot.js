@@ -267,4 +267,4 @@ bot.on("guildMemberAdd", async member => {
     channel.send(`Bienvenue sur ce CaraSeveur, <@${member.id}> ! <:joyeux_carapuce:775359409026367529>`, attachment);
 });
 
-bot.login("Nzc1MzQyMDYxODA4MjU1MDE2.X6k7kA.bKJLV-VIAmJzKzhVTeT40tfd0Qo");
+bot.login("TOKEN");
